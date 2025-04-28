@@ -2,13 +2,13 @@
 
 **Navn:** 
 
-**Hold:** WUxx
+**Hold:** WU13
 
 **Uddannelse:** Webudvikler
 
 **Uddannelsessted:** Roskilde Tekniske Skole
 
-[Link til min applikaton](http://example.com/)
+[Link til min applikaton](https://github.com/rts-cmk-wu13/projekt-newsify-Antoxius.git)
 
 
 ## Teknologier

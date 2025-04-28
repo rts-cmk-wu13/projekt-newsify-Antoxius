@@ -1,0 +1,21 @@
+.slider{
+    display: flex;
+    overflow: scroll;
+    &__slide{
+        text-align: center;
+        width: 100%;
+        flex-shrink: 0;
+        img{
+            width: 100%;
+        }
+        &__btn-skip{
+            background-color: white;
+            color: green;
+        }
+        &__btn-continue{
+            background-color: green;
+            color: white;
+        }
+        
+    }
+}
